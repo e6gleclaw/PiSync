@@ -53,5 +53,3 @@ A lightweight backend service for syncing offline learning data from PiBook and 
 - All endpoints validate input and return proper error messages.
 
 ---
-
-For questions, see code comments or contact the maintainer.
